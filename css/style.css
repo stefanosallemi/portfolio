@@ -360,9 +360,9 @@ html[data-w-dynpage] [data-w-cloak] {
     width: auto;
     height: auto;
     max-height: none;
-    max-width: none;
-    min-height: 0;
-    min-width: 0;
+    max-width: 6rem;
+    min-height: 1rem;
+    min-width: 1rem;
     margin: 0;
     padding: 0;
     float: none;
